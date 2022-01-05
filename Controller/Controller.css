@@ -1,7 +1,3 @@
-body { 
-    background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden;
-}
-
 .controller.ds4.white {
     background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/base.png);
 }
