@@ -1,0 +1,43 @@
+body { 
+    background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden;
+}
+
+.controller.ds4.white {
+    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/base.png);
+}
+
+.ds4.white.disconnected {
+    background: url(ps4-assets/disconnected.svgz);
+}
+
+.ds4.white .trigger {
+    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/triggers.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/bumper.png);
+}
+
+.ds4.white .touchpad.pressed {
+    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/touchpad.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/start.png);
+}
+
+.ds4.white .button {
+    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/dpad.png);
+}
+
+.ds4.white .stick {
+    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/sticks.png);
+}
+
+.ds4.white .face {
+    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/face.png);
+}
+
+.ds4 .meta.pressed {
+    background: url(https://nerxxy.github.io/ControllerOverlay/Controller/meta.png);
+}
