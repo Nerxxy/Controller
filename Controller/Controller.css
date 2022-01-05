@@ -23,7 +23,7 @@
 }
 
 .ds4.white .button {
-    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/dpad.png);
+    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/face.png);
 }
 
 .ds4.white .stick {
@@ -31,7 +31,7 @@
 }
 
 .ds4.white .face {
-    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/face.png);
+    background-image: url(https://nerxxy.github.io/ControllerOverlay/Controller/dpad.png);
 }
 
 .ds4 .meta.pressed {
