@@ -2,6 +2,10 @@
     background-image: url(base.png);
 }
 
+.ds4.disconnected {
+    background: url(ps4-assets/disconnected.svgz);
+}
+
 .ds4.white .trigger {
     background-image: url(triggers.png);
 }
